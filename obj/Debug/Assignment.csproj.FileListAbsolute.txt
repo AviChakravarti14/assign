@@ -1,0 +1,8 @@
+C:\Genpact\Day5\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Genpact\Day5\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Genpact\Day5\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Genpact\Day5\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Genpact\Day5\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Genpact\Day5\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Genpact\Day5\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Genpact\Day5\Assignment\Assignment\obj\Debug\Assignment.pdb
